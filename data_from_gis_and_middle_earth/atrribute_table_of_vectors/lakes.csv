@@ -1,0 +1,8 @@
+Code,Name,Code_1,Realm,Type,Mapped,Crosslist,Comments,English,Westron,Quenya,Sindarin,Khuzdul,Rohirric,Other,F15,F16,F17,F18,F19,F20,F21,F22,F23,F24,F25,F26,F27,F28,SHAPE_Leng,SHAPE_Area
+LA002,Bywater Pool,LA002,The Shire,Pond,x,SH014,,Bywater Pool,,,,,,,,,,,,,,,,,,,,,17399.25375700000,21533031.14420000091
+LA006,Lake Evendim,LA006,Abandoned,Lake,x,,,Lake Evendim,,,"Nenuial (""Lake of Twilight"")",,,,,,,,,,,,,,,,,,176520.56101300000,961411810.55799996853
+LA009,Long Lake,LA009,Kingdom of Dale,Lake,x,,,Long Lake,,,,,,,,,,,,,,,,,,,,,94930.52732450000,210131132.73500001431
+LA012,Mirrormere,LA012,Khazad-dûm,Lake,x,,,Mirrormere,,,"Nen Cenedril (""Lake Looking-glass"")","Kheled-zâram (""glass lake/pool"")",,,,,,,,,,,,,,,,,3529.01342736000,830010.86060799996
+LA013,Nen Hithoel,LA013,Gondor,Lake,x,GD070,,"""Mist-cool Water""",,,Nen Hithoel,,,,,,,,,,,,,,,,,,94564.03350070000,604123002.01300001144
+LA019,Sea of Rhûn,LA019,Rhûn,Inland Sea,x,,,Sea of Rhûn,,,"Rhûn (""East"")",,,,,,,,,,,,,,,,,,960854.37020400004,22436757395.79999923706
+LA017,Sea of Núrnen,LA017,Mordor,Inland Sea,x,MO022,,"Sea of Núrnen; Lake Núrnen; ""sad-water"" lake/sea",,,[Sea/Lake] Núrnen,,,,,,,,,,,,,,,,,,644327.42308800004,14297796890.89999771118
