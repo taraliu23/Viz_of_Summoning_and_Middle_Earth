@@ -1,10 +1,10 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
 <qgis version="3.20.3-Odense">
-  <identifier>Rivers</identifier>
+  <identifier></identifier>
   <parentidentifier></parentidentifier>
-  <language>ENG</language>
+  <language></language>
   <type>dataset</type>
-  <title>Rivers</title>
+  <title></title>
   <abstract></abstract>
   <links/>
   <fees></fees>
