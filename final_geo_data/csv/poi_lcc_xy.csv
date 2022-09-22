@@ -1,0 +1,481 @@
+Name,Type,Inhabitant,English,Westron,Quenya,Sindarin,Khuzdul,Rohirric,Other,SHAPE_Leng,SHAPE_Area,layer,Name_1,x,y
+Field of Celebrant,Field,,"Field of Celebrant; Field of ""Silverlode""",,,[field of] Celebrant,,,,372765.67851900001,2598167417.48000001907,,,3766178.1527090999,2449267.1819826374
+Firienfeld,Flat upland,Rohirrim,Dunharrow,,,,,Firienfeld,,4367.54197597000,1376384.30046999990,,,3578612.9560418171,2120419.9683589037
+Plateau of Gorgoroth,Plain,"Sauron, Orcs, Men allied to Sauron","Plateau of ""horror/dread""",,,[plateau of] Gorgoroth,,,,5635612.07689999975,36405149984.09999847412,,,4229918.7741912259,1915462.3759045796
+Plateau of Gorgoroth,Plain,"Sauron, Orcs, Men allied to Sauron","Plateau of ""horror/dread""",,,[plateau of] Gorgoroth,,,,5635612.07689999975,36405149984.09999847412,,,4236480.9416071326,1948278.4103697988
+Plateau of Gorgoroth,Plain,"Sauron, Orcs, Men allied to Sauron","Plateau of ""horror/dread""",,,[plateau of] Gorgoroth,,,,5635612.07689999975,36405149984.09999847412,,,4094888.3836598578,2056016.9876060353
+Plateau of Gorgoroth,Plain,"Sauron, Orcs, Men allied to Sauron","Plateau of ""horror/dread""",,,[plateau of] Gorgoroth,,,,5635612.07689999975,36405149984.09999847412,,,4291555.6258440586,2058811.1329386556
+Plateau of Gorgoroth,Plain,"Sauron, Orcs, Men allied to Sauron","Plateau of ""horror/dread""",,,[plateau of] Gorgoroth,,,,5635612.07689999975,36405149984.09999847412,,,4109478.8370475858,2094104.6225718665
+Plateau of Gorgoroth,Plain,"Sauron, Orcs, Men allied to Sauron","Plateau of ""horror/dread""",,,[plateau of] Gorgoroth,,,,5635612.07689999975,36405149984.09999847412,,,4214539.2210552385,2014772.7336422205
+Gladden Fields,Marsh,Servants of Sauron searching for the One Ring,Gladden Fields,,,Loeg Ningloron,,,,153041.05763500000,705004008.24800002575,,,3788710.8174551842,2721505.6824261053
+Desert of Lostladen,Desert,,Desert of Lostladen,,,,,,,889989.44601700001,9841671815.61000061035,,,4321146.0195345981,1619637.6948918533
+Parth Galen,Field,Uninhabited,"""green sward""",,,Parth Galen,,,,8788.04050645000,4557356.83916999958,,,3895273.6865020231,2182919.3702455987
+Party Field,Field,"Hobbits; Bilbo",Party Field,,,,,,,802.63522264500,39900.91755790000,,,3071596.1303037107,2731187.7337025763
+Pelennor Fields,Field,Gondorians,"""fenced/encircled land"" Fields",,,Pelennor [fields],,,,93881.68515730000,401270920.23299998045,,,3963755.5558794034,1961638.1485363613
+Derndingle,Hollow,Ents,,,,,,,,8189.14514228000,4831726.01322999969,,,3549532.8619612595,2317844.6860556044
+Field of Cormallen,Field,Men,"Field of ""golden circle""",,,"Cormallen; Cormalthen (Gondor Sindarin)",,,,28291.51171570000,25419298.91160000116,,,3985011.6340091159,2038791.7887247480
+Desolation of the Morannon,Dead land,Uninhabited,Desolation of the Morannon,,,,,,,81821.69516680000,334630695.28700000048,,,4052608.9368779799,2170665.1170884352
+Bonfire Glade,Glade,,Bonfire Glade,,,,,,,109614.57644300000,78178271.72529999912,,,3133833.6797069246,2701587.7238957258
+Dagorlad,Plain,Uninhabited,"""battle plain""",,,Dagorlad,,,,724552.91677000001,5996526389.40000057220,,,4129839.3492470630,2255787.9474190637
+The Wold,Upland plain,Deserted,The Wold,,,,,,,721234.29268900002,13741540958.79999923706,,,3784636.1663798536,2332986.3775365409
+Tolfalas,,Uninhabited,,,,Tol Falas,,,,203923.87667299999,1798751182.91000008583,,,3690536.9685993823,1723520.3757717719
+Tol Brandir,,Uninhabited,"""Isle of the great Steeples""",Tindrock (archaic Westron),,Tol Brandir,,,,10295.27225300000,7573870.26150000002,,,3896078.6556087551,2188904.8662481098
+Girdley Island,,Uninhabited?,"Gridley Island; ""girdle-island""",,,,,,Gyrdlieg (Old Hobbitish),6907.52201564000,2126740.38783999998,,,3135558.9452546639,2731320.7527081990
+Carrock,,Near the homes of Beorn and Radagast,,,,,,,,4049.68863762000,1184776.22176999995,,,3804559.9518996342,2820751.7830438218
+Cair Andros,,Gondorians,"""Ship of Long Foam""",,,Cair Andros,,,,34580.61942310000,59508900.12259999663,,,3978985.6319385935,2027386.6319592013
+Bywater Pool,Pond,,Bywater Pool,,,,,,,17399.25375700000,21533031.14420000091,,,3084239.5507503948,2727782.5132374442
+Lake Evendim,Lake,,Lake Evendim,,,"Nenuial (""Lake of Twilight"")",,,,176520.56101300000,961411810.55799996853,,,3088205.8514628792,2868326.8721797084
+Long Lake,Lake,,Long Lake,,,,,,,94930.52732450000,210131132.73500001431,,,4083225.8255724511,2843445.9952077167
+Mirrormere,Lake,,Mirrormere,,,"Nen Cenedril (""Lake Looking-glass"")","Kheled-zâram (""glass lake/pool"")",,,3529.01342736000,830010.86060799996,,,3674613.0205835118,2538184.0906030312
+Nen Hithoel,Lake,,"""Mist-cool Water""",,,Nen Hithoel,,,,94564.03350070000,604123002.01300001144,,,3899573.9370556329,2203762.3535771365
+Sea of Rhûn,Inland Sea,,Sea of Rhûn,,,"Rhûn (""East"")",,,,960854.37020400004,22436757395.79999923706,,,4536575.2732288828,2460410.5121220658
+Sea of Núrnen,Inland Sea,,"Sea of Núrnen; Lake Núrnen; ""sad-water"" lake/sea",,,[Sea/Lake] Núrnen,,,,644327.42308800004,14297796890.89999771118,,,4389723.1832572222,1810405.0248137356
+Amon Hen,,Gondorians,"""Hill of the Eye""; Hill of Sight",,,Amon Hen,,,,17174.30262820000,16460333.26789999940,Hills,,3893044.4718603338,2184193.3760482911
+Amon Lhaw,,,"""Hill of Hearing""",,,Amon Lhaw,,,,25295.65727820000,28664574.10830000043,Hills,,3904705.3736314946,2188274.1913845837
+Dol Guldur,,"Sauron, Khamûl, forces of Sauron","""Hill of Sorcery""; the dungeons of the Necromancer",,,"Amon Lanc (""the Naked Hill""; ""Bald Hill""); Dol Guldur (""Hill of Sorcery"")",,,,24073.70571180000,35151954.22249999642,Hills,,3869071.1544583007,2532498.4709738754
+Buck Hill,,Hobbits,Buck Hill,,,,,,,21391.99995140000,32058307.79199999943,Hills,,3139225.3047086606,2709975.6140376767
+Cerin Amroth,,,"""Amroth's Mound""",,,Cerin Amroth,,,,7911.54429088000,4703016.51470999978,Hills,,3742057.0373952528,2520951.5377714881
+Death Down,,,Death Down,,,,,,,868.15839040900,53940.40108010000,Hills,,3494953.0689167380,2200621.3940751799
+Dol Amroth,,Men (Númenórean Faithful),"""hill upclimber""",,,Dol Amroth,,,,45904.78437890000,78039725.25869999826,Hills,,3558870.4128023535,1846321.0812512613
+Dol Baran,,,"""Shaven hill""",,,Dol Baran,,,,7074.59465226000,3058019.07757000020,Hills,,3503779.6781684230,2269251.4437248195
+Emyn Arnen,,House of Húrin (Gondorians),"""the hills of Arnen""",,,Emyn [Arnen],,,,84749.28502230000,347700778.94199997187,Hills,,3979632.4108548146,1931528.5140695679
+Emyn Muil,,Uninhabited,"""the drear hills""",,,Emyn Muil,,,,448728.75736900000,6215051959.09000110626,Hills,,3918368.0142713175,2224777.5889445450
+Erech,,Abandoned/Dead Men,Hill of Erech,,,,,,Erech (pre-Númenórean Mannish),118636.64541300001,457205136.13099998236,Hills,,3596452.5614136853,2043216.7909132291
+Hill of Guard,,Gondorians,Hill of Guard,,,Amon Tirith,,,,14877.88059750000,15812799.77500000037,Hills,,3956111.3059090711,1953310.8115090276
+Weathertop,,Uninhabited,Weathertop,,,Amon Sûl,,,,14994.67201420000,7886250.01339999959,Hills,,3296639.1575103151,2738439.0978782428
+Hobbiton Hill,,"Bilbo, Frodo, Hobbits","Hobbiton Hill; The Hill",,,,,,,14845.87892880000,14908631.73320000060,Hills,,3094177.4285706021,2731059.6642268882
+Tarnost,,Uninhabited,,,,,,,Tarnost (Noldorin),2386953.94487999985,6920006902.03999996185,Hills,,3613201.9665918602,1810491.0476655369
+Tarnost,,Uninhabited,,,,,,,Tarnost (Noldorin),2386953.94487999985,6920006902.03999996185,Hills,,3637640.8229812025,1796471.2775076414
+Tarnost,,Uninhabited,,,,,,,Tarnost (Noldorin),2386953.94487999985,6920006902.03999996185,Hills,,3617086.4520130344,1846027.3594866316
+Tarnost,,Uninhabited,,,,,,,Tarnost (Noldorin),2386953.94487999985,6920006902.03999996185,Hills,,3609669.2144708200,1847344.5173627669
+Tarnost,,Uninhabited,,,,,,,Tarnost (Noldorin),2386953.94487999985,6920006902.03999996185,Hills,,3615384.5879383720,1848549.7326943672
+Tarnost,,Uninhabited,,,,,,,Tarnost (Noldorin),2386953.94487999985,6920006902.03999996185,Hills,,3574748.7402178170,1845423.4122081443
+Tarnost,,Uninhabited,,,,,,,Tarnost (Noldorin),2386953.94487999985,6920006902.03999996185,Hills,,3645920.6634536088,1881963.6813927284
+Tarnost,,Uninhabited,,,,,,,Tarnost (Noldorin),2386953.94487999985,6920006902.03999996185,Hills,,3669199.6323417551,1860354.2879991520
+North Downs,,"Uninhabited; visited by Rangers of the North",North Downs,,,,,,,990600.84192200005,5769787275.35000038147,Hills,,3212738.8300853348,2851730.7847473873
+North Downs,,"Uninhabited; visited by Rangers of the North",North Downs,,,,,,,990600.84192200005,5769787275.35000038147,Hills,,3269645.9713225542,2893283.8197691962
+North Downs,,"Uninhabited; visited by Rangers of the North",North Downs,,,,,,,990600.84192200005,5769787275.35000038147,Hills,,3278413.8049368076,2897967.0259016431
+North Downs,,"Uninhabited; visited by Rangers of the North",North Downs,,,,,,,990600.84192200005,5769787275.35000038147,Hills,,3284315.9279518900,2906667.1346380552
+North Downs,,"Uninhabited; visited by Rangers of the North",North Downs,,,,,,,990600.84192200005,5769787275.35000038147,Hills,,3281540.5897857114,2911957.5907168277
+North Downs,,"Uninhabited; visited by Rangers of the North",North Downs,,,,,,,990600.84192200005,5769787275.35000038147,Hills,,3209089.1445854222,2921988.0291779130
+North Downs,,"Uninhabited; visited by Rangers of the North",North Downs,,,,,,,990600.84192200005,5769787275.35000038147,Hills,,3211306.4215093371,2929542.5817572251
+North Downs,,"Uninhabited; visited by Rangers of the North",North Downs,,,,,,,990600.84192200005,5769787275.35000038147,Hills,,3291892.3684043353,2929154.4073066427
+North Downs,,"Uninhabited; visited by Rangers of the North",North Downs,,,,,,,990600.84192200005,5769787275.35000038147,Hills,,3279323.2264677887,2951670.1100852927
+North Downs,,"Uninhabited; visited by Rangers of the North",North Downs,,,,,,,990600.84192200005,5769787275.35000038147,Hills,,3227359.7120909523,2893284.1249291194
+Iron Hills,,Durin's Folk/Longbeards (Dwarves),,,,,,,,1066087.94754999992,3479615638.44999980927,Hills,,4223348.9778831685,2872673.4431893462
+Iron Hills,,Durin's Folk/Longbeards (Dwarves),,,,,,,,1066087.94754999992,3479615638.44999980927,Hills,,4205684.0605138652,2874112.4709647638
+Iron Hills,,Durin's Folk/Longbeards (Dwarves),,,,,,,,1066087.94754999992,3479615638.44999980927,Hills,,4252621.7458360717,2897698.5177581105
+Iron Hills,,Durin's Folk/Longbeards (Dwarves),,,,,,,,1066087.94754999992,3479615638.44999980927,Hills,,4222255.9368675128,2881773.4479879951
+Hollin Ridge,,Crebain,Hollin Ridge,,,,,,,333538.37570999999,1684244117.02999997139,Hills,,3522461.7867400255,2562971.8749819594
+Tower Hills,,Elves,Tower Hills,,,Emyn Beriad,,,,301123.69961299998,1693419133.04999995232,Hills,,2891093.2758572972,2715452.2029843433
+Far Downs,,Hobbits,"Far Downs; Fox Downs (incorrect printing)",,,,,,,483903.28942900000,863591395.90799999237,Hills,,3039977.4774105824,2624228.0893253684
+Far Downs,,Hobbits,"Far Downs; Fox Downs (incorrect printing)",,,,,,,483903.28942900000,863591395.90799999237,Hills,,3008152.2460494391,2659620.3943862468
+Far Downs,,Hobbits,"Far Downs; Fox Downs (incorrect printing)",,,,,,,483903.28942900000,863591395.90799999237,Hills,,2991634.8844600213,2685716.5417173114
+Far Downs,,Hobbits,"Far Downs; Fox Downs (incorrect printing)",,,,,,,483903.28942900000,863591395.90799999237,Hills,,2985688.4422274358,2695128.0719244624
+Far Downs,,Hobbits,"Far Downs; Fox Downs (incorrect printing)",,,,,,,483903.28942900000,863591395.90799999237,Hills,,2981680.8562974525,2703513.0860518855
+Far Downs,,Hobbits,"Far Downs; Fox Downs (incorrect printing)",,,,,,,483903.28942900000,863591395.90799999237,Hills,,2974852.7815366439,2726270.5929596527
+Far Downs,,Hobbits,"Far Downs; Fox Downs (incorrect printing)",,,,,,,483903.28942900000,863591395.90799999237,Hills,,2972826.7023561471,2749559.1231329190
+Far Downs,,Hobbits,"Far Downs; Fox Downs (incorrect printing)",,,,,,,483903.28942900000,863591395.90799999237,Hills,,2970433.0661166152,2770164.2970089274
+Far Downs,,Hobbits,"Far Downs; Fox Downs (incorrect printing)",,,,,,,483903.28942900000,863591395.90799999237,Hills,,2984021.3298691991,2796608.3115010448
+Hills of Scary,,Hobbits,Hills of Scary,,,,,,,115984.03369800000,448490039.78700000048,Hills,,3121846.1848613881,2752251.3104755240
+White Downs,,Hobbits,White Downs,,,,,,,796161.79549100006,1794571209.54999995232,Hills,,3084422.0265883133,2604442.9420288447
+White Downs,,Hobbits,White Downs,,,,,,,796161.79549100006,1794571209.54999995232,Hills,,3066231.8653955869,2630082.2326328177
+White Downs,,Hobbits,White Downs,,,,,,,796161.79549100006,1794571209.54999995232,Hills,,3041291.7911762693,2635896.8111042371
+White Downs,,Hobbits,White Downs,,,,,,,796161.79549100006,1794571209.54999995232,Hills,,3055990.2686201632,2628533.9824568531
+White Downs,,Hobbits,White Downs,,,,,,,796161.79549100006,1794571209.54999995232,Hills,,3021883.5696423068,2658408.5952113108
+White Downs,,Hobbits,White Downs,,,,,,,796161.79549100006,1794571209.54999995232,Hills,,2996191.1087747691,2700385.7652472034
+White Downs,,Hobbits,White Downs,,,,,,,796161.79549100006,1794571209.54999995232,Hills,,2985524.2669429984,2746323.3374685911
+Bree-hill,,"Men, Hobbits",Bree-hill,,,,,,,85873.22595310000,388413284.63000005484,Hills,,3205043.9161295085,2745800.3337619300
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3299443.6109336005,2593412.5353318374
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3291885.0577074219,2595646.7293570326
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3289722.8860935466,2597442.6576239690
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3308039.3194274222,2615297.8527597268
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3321418.5486636669,2616323.1497365865
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3312320.8309064163,2619142.9878953290
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3311654.3066156092,2620851.1790945884
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3309153.1235076184,2624313.0095828329
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3322283.1432544063,2627384.2800360988
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3328335.2152439975,2635554.4407050372
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3307175.9616254596,2659079.7445223639
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3306964.4449132145,2660845.7627598206
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3295149.5102703907,2671966.5938509270
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3290747.7584194178,2676738.5022271690
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3274904.2192810974,2681690.0708133313
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3243804.4572312995,2683047.5658005434
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3231495.8975860509,2692777.9296626975
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3261338.8606668203,2694513.3063651910
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3247788.2410001131,2701655.4670260767
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3272254.4222014928,2693526.9486378422
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3232555.3858309039,2706008.9953813800
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3244522.7751847482,2705606.9609415964
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3230106.1726713781,2709500.0009608022
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3232881.5769355535,2708811.5530445590
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3235414.6552174287,2708745.4022998069
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3232432.0101331393,2710484.5862986799
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3227977.7919087466,2710845.2061033915
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3224762.0906919483,2712975.7252981784
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3225002.9368187762,2714496.4900587657
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3220722.4554216280,2716400.2070128703
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3221168.7619666997,2717604.8888818445
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3217719.2653768952,2718629.9263537060
+South Downs,,Uninhabited,South Downs,,,,,,,962117.67903100001,5831279378.78999996185,Hills,,3269503.6571700326,2653724.9072604557
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3244126.0010473127,2605210.5752464812
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3239789.7116985735,2607898.6922540721
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3253028.7147985259,2605019.1999247195
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3208874.1081512100,2611559.0478975629
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3227576.1539386306,2613178.0929048834
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3233837.2959971009,2608681.6039117556
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3219058.4066692721,2616668.8561597303
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3258209.9448981704,2623112.4763325937
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3199268.7398899193,2626720.7776445169
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3199333.5155373849,2630300.5091065778
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3205293.1115708938,2628700.5407275110
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3212885.6597442455,2632867.1891429378
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3198830.1101385569,2635795.5585931605
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3187001.0677445508,2642009.5830594352
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3193546.2424479430,2643832.1988488659
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3182684.6747446205,2652370.4747163868
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3183132.7570689586,2674774.0585971670
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3169804.0535987820,2699472.5332664442
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3184752.2930795397,2716308.1234277333
+Barrow-downs,,Barrow-wights,Barrow-downs,,,Tyrn Gorthad/Tyrn Goerthiad (plural),,,,754236.77783299994,3612863006.44999933243,Hills,,3208533.9984798837,2667886.8923113993
+Ravenhill,,Dwarves,Ravenhill,,,,,,,7666.54965048000,2194250.57341000019,Hills,,4058735.1468061833,2899364.5224090959
+Green Hills,,Hobbits,Green Hills,,,,,,,238342.44200899999,879328857.49100005627,Hills,,3085579.0020920108,2691612.8859262434
+Green Hills,,Hobbits,Green Hills,,,,,,,238342.44200899999,879328857.49100005627,Hills,,3085153.5810070126,2701591.1367714335
+Slag-hills,,,Slag-hills,,,,,,,45271.67634500000,54672172.02090000361,Hills,,4039482.2370000170,2153473.0063476404
+Grey Mountains,Range,"Durin's Folk, Dragons, Orcs",Grey Mountains,,,Ered Mithrin,,,,1760153.31856999989,8793164243.25000000000,Mountains,,3916003.6459254394,2997868.2382820412
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3165973.1501109786,1865811.0757817563
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3929670.7530963719,1940187.6137230713
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3879198.6066988488,1950223.0099511952
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3874413.9077556529,1951427.2805574792
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3694605.0225984785,2021531.8117452743
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3670038.4643350886,2026720.5511069563
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3547220.4186820160,2037770.7228492619
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3574285.5458591972,2057628.9497799487
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3766725.4740966833,2064391.7114037196
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3588264.0494862446,2064897.5415114861
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3320092.4958823458,2084967.4188982637
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3272805.1092757359,2109081.7099213772
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3559108.1738528111,2116182.9622829868
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3597906.8600880853,2128685.7108931802
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3597929.0592100346,2129594.5163746439
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3597208.6105220341,2129941.6803808017
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3178213.3525325800,1972682.5976609420
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3577704.0665515135,2133285.0315380492
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3575952.0287638353,2134499.1178681236
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3586639.8010064433,2135137.6935801324
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3478640.1954275472,2136409.1839407003
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3578440.2123056096,2136277.9252013555
+White Mountains,Range,"Men, Dwarves",White Mountains,,,Ered Nimrais,,,,6337069.33787999954,55474133536.30000305176,Mountains,,3617373.3848738600,2052196.2874712839
+Mount Doom,Volcano,,Mount Doom,,,"Orodruin; Amon Amarth (""Mount Doom"")",,,,207402.96378200001,522490204.48699998856,Mountains,,4140729.3494902402,2030712.5662927220
+Blue Mountains,Range,"Dwarves (Broadbeams, Firebeards, and Longbeards)","Blue Mountains; Mountains of Lindon",[Mountains of Lune],,"Ered Luin (""Blue Mountains""); Ered Lindon (""Mountains of Lindon"")",,,Lhúndirien (Noldorin),2378422.15181000018,36116094604.50000000000,Mountains,,2820835.4541768637,2944589.1789960572
+Blue Mountains,Range,"Dwarves (Broadbeams, Firebeards, and Longbeards)","Blue Mountains; Mountains of Lindon",[Mountains of Lune],,"Ered Luin (""Blue Mountains""); Ered Lindon (""Mountains of Lindon"")",,,Lhúndirien (Noldorin),2378422.15181000018,36116094604.50000000000,Mountains,,2787952.7785128048,3023991.4120374750
+Blue Mountains,Range,"Dwarves (Broadbeams, Firebeards, and Longbeards)","Blue Mountains; Mountains of Lindon",[Mountains of Lune],,"Ered Luin (""Blue Mountains""); Ered Lindon (""Mountains of Lindon"")",,,Lhúndirien (Noldorin),2143983.57628000015,17079749151.60000228882,Mountains,,2839018.8292236771,2496240.5864066472
+Blue Mountains,Range,"Dwarves (Broadbeams, Firebeards, and Longbeards)","Blue Mountains; Mountains of Lindon",[Mountains of Lune],,"Ered Luin (""Blue Mountains""); Ered Lindon (""Mountains of Lindon"")",,,Lhúndirien (Noldorin),2143983.57628000015,17079749151.60000228882,Mountains,,2817811.7563462742,2531982.9873064021
+Blue Mountains,Range,"Dwarves (Broadbeams, Firebeards, and Longbeards)","Blue Mountains; Mountains of Lindon",[Mountains of Lune],,"Ered Luin (""Blue Mountains""); Ered Lindon (""Mountains of Lindon"")",,,Lhúndirien (Noldorin),2143983.57628000015,17079749151.60000228882,Mountains,,2795689.9661696325,2538595.8365899185
+Blue Mountains,Range,"Dwarves (Broadbeams, Firebeards, and Longbeards)","Blue Mountains; Mountains of Lindon",[Mountains of Lune],,"Ered Luin (""Blue Mountains""); Ered Lindon (""Mountains of Lindon"")",,,Lhúndirien (Noldorin),2143983.57628000015,17079749151.60000228882,Mountains,,2803627.8893803009,2541631.6811172329
+Blue Mountains,Range,"Dwarves (Broadbeams, Firebeards, and Longbeards)","Blue Mountains; Mountains of Lindon",[Mountains of Lune],,"Ered Luin (""Blue Mountains""); Ered Lindon (""Mountains of Lindon"")",,,Lhúndirien (Noldorin),2143983.57628000015,17079749151.60000228882,Mountains,,2790105.6885575792,2554439.1963396245
+Blue Mountains,Range,"Dwarves (Broadbeams, Firebeards, and Longbeards)","Blue Mountains; Mountains of Lindon",[Mountains of Lune],,"Ered Luin (""Blue Mountains""); Ered Lindon (""Mountains of Lindon"")",,,Lhúndirien (Noldorin),2143983.57628000015,17079749151.60000228882,Mountains,,2754431.1239621481,2610918.5519058416
+Blue Mountains,Range,"Dwarves (Broadbeams, Firebeards, and Longbeards)","Blue Mountains; Mountains of Lindon",[Mountains of Lune],,"Ered Luin (""Blue Mountains""); Ered Lindon (""Mountains of Lindon"")",,,Lhúndirien (Noldorin),2143983.57628000015,17079749151.60000228882,Mountains,,2778186.4514853507,2634234.0302058617
+Blue Mountains,Range,"Dwarves (Broadbeams, Firebeards, and Longbeards)","Blue Mountains; Mountains of Lindon",[Mountains of Lune],,"Ered Luin (""Blue Mountains""); Ered Lindon (""Mountains of Lindon"")",,,Lhúndirien (Noldorin),2143983.57628000015,17079749151.60000228882,Mountains,,2855082.2822530959,2566310.9905728623
+Lonely Mountain,Mountain,Durin's Folk/Longbeards (Dwarves),Lonely Mountain,,,Erebor,,,,70839.23097130000,268765748.03799998760,Mountains,,4051387.6778356177,2906644.2368188668
+Amon Anwar,Mountain,Gondorian beacon-wardens,"""Hill of Awe""; ""Holy Mountain""",,,"Amon Anwar (""Hill of Awe"")",,"the Halifirien (""Holy Mountain"")",Eilenaer (pre-Númenórean Mannish),5042.72737052000,1408169.96453000000,Mountains,,3766725.4740966833,2064391.7114037196
+Írensaga,Mountain,Rohirrim,"""iron-saw""",,,,,Írensaga,,58528.36154350000,146024061.23500001431,Mountains,,3588204.4195309118,2125928.8943241690
+Ras Morthil,Mountain,"Possibly Druédain, possibly vacated","""dark/black horn""",,,Ras Morthil,,,,80640.37385320000,105273698.97500000894,Mountains,,3051961.1906456295,1820976.8274652951
+Cûl Bîn,Mountain,,"""Little Load""",,,Cûl Bîn,,,,349009.63594499999,1308099846.35999989510,Mountains,,3617696.1286291671,1978740.6954219397
+Dol Tarlang,Mountain,,"""Tarlang's Head""",,,Dol Tarlang,,,,102091.77715400000,161740075.63899999857,Mountains,,3630772.7350308574,2028013.8492556668
+Cûl Veleg,Mountain,,"""Big Load""",,,Cûl Veleg,,,,156922.26425099999,459933208.67399996519,Mountains,,3621538.1325851446,2011886.1041806904
+Gundabad,Mountain,Orcs,,,,,Gundabad,,,35979.23654260001,82353405.33720000088,Mountains,,3647588.4712277758,3009023.7616838617
+Mindolluin,Mountain,None,Mount Mindolluin,,,"Mindolluin (""towering-head-blue"")",,,,375629.49467699998,2045226867.58999991417,Mountains,,3925693.8313888721,1966484.0144342871
+Mountains of Angmar,Range,"Orcs, the Witch-king",Mountains of Angmar,,,,,,,709358.14130500006,5034958333.27000045776,Mountains,,3523199.7269145339,3050520.2233501649
+Morgai,Ridge,,,,,,,,,955544.87419400003,2100675562.92000031471,Mountains,,4067702.9743683198,1936951.0881924443
+Morgai,Ridge,,,,,,,,,955544.87419400003,2100675562.92000031471,Mountains,,4059066.8309532655,2036396.3816643455
+Calenhad,Beacon-hill,Gondorian beacon-wardens,"""green space""",,,Calenhad,,,,36361.07882410000,60467528.10459998995,Mountains,,3816748.5531521905,2057555.7277810075
+Mountains of Mirkwood,Range,"Elves (previously); Spiders and evil creatures",Mountains of Mirkwood,,,"Emyn Duir (""the Dark Mountains""); Emyn-nu-Fuin (""the Mountains of Mirkwood"")",,,,1328482.66121000005,4321728640.27999973297,Mountains,,4015861.9792076335,2777792.5806452064
+Celebdil,Mountain,,Silvertine,Silvertine,,Celebdil,Zirakzigil,,,1021751.49803999998,1925026085.29999995232,Mountains_of_Moria,,3652882.1371892239,2615974.0808931850
+Caradhras,Mountain,Mountain is actively hostile,Redhorn,Redhorn,,Caradhras,Barazinbar/Baraz,,,206272.78457799999,740966016.12300014496,Mountains_of_Moria,,3594621.8722239607,2611680.8996352120
+Fanuidhol,Mountain,,Cloudyhead,Cloudyhead,,Fanuidhol,Bundushathûr/Shathûr,,,294495.04031800001,1523281703.09999990463,Mountains_of_Moria,,3669642.3949695975,2577349.1221169438
+Caradhras,Mountain,Mountain is actively hostile,Redhorn,Redhorn,,Caradhras,Barazinbar/Baraz,,,221891.83937500001,904526360.13399994373,Mountains_of_Moria,,3627867.6270075152,2649147.0951985139
+Fanuidhol,Mountain,,Cloudyhead,Cloudyhead,,Fanuidhol,Bundushathûr/Shathûr,,,289319.63209799997,1003501385.15999996662,Mountains_of_Moria,,3703547.5150036025,2616437.1627954524
+Dead Marshes,Wetland,Dead faces,Dead Marshes,,,,,,,283064.94568100001,2601027940.98000001907,,,3996002.5104346122,2213257.7340661217
+Swanfleet,Marsh,Swans,Swanfleet,,,"Nîn-in-Eilph (""water-lands of the Swans"")",,,,132608.08162300001,1029769579.63999998569,,,3299324.4338199380,2467758.7056996808
+Rushock Bog,Swamp,,Rushock Bog,,,,,,Ryscuc (Old Hobbitish),25364.75091010000,42011783.16770000011,,,3054971.9807730969,2738320.1843660455
+Overbourn Marshes,Marsh,,Overbourn Marshes,,,,,,,97889.46283819999,493316931.40899997950,,,3116280.5944115100,2667984.4687595461
+Nindalf,Swamp,None,"""wet flat field""",Wetwang,,Nindalf,,,,327250.74319499999,4034835095.55000066757,,,3934007.4667281127,2143439.7515307846
+Midgewater Marshes,Marsh,None,Midgewater Marshes,,,,,,,97605.87630480000,503358492.60400003195,,,3228195.5253965151,2741901.0500927595
+Marish,Bog,Stoors (Hobbits),Marish,,,,,,,41502.88438790000,40544878.05300000310,,,3121266.3259646366,2702588.3180983211
+Long Marshes,Marsh,,Long Marshes,,,,,,,107605.48218599999,422590336.69099992514,,,4049432.8227538378,2863275.8326066355
+Gladden Fields,Marsh,Servants of Sauron searching for the One Ring,Gladden Fields,,,Loeg Ningloron,,,,153041.05763500000,705004008.24800002575,,,3788710.8174551842,2721505.6824261053
+Fenmark,Marsh,,"Fenmark; Fenmarch",,,,,,,141350.29310700000,221808571.39899998903,,,3809323.6767080105,2108464.2546822033
+Tarlang's Neck,Pass,,Tarlang's Neck,,,,,,,75192.20728520000,184900080.47400000691,,,3643601.6754605630,2035622.5632633225
+Udûn (valley),Valley,Orcs,"""dark pit/Underworld""; ""hell""",,,Udûn,,,,190107.38208499999,1250446315.74000000954,,,4056659.0780643718,2111683.2649743874
+Withered Heath,Valley,Dragons,Withered Heath,,,,,,,468566.39095899998,3438370089.61999988556,,,3929965.2965648342,3003793.1837727376
+Withered Heath,Valley,Dragons,Withered Heath,,,,,,,468566.39095899998,3438370089.61999988556,,,4033633.6539503536,2995500.8745616158
+Cirith Gorgor,Guarded Pass,Orcs,"""pass of extreme horror""",,,Cirith Gorgor,,,,39882.80137850000,45566239.41550000012,,,4052496.8757599695,2148364.2468085350
+Carach Angren,Guarded Pass,Orcs,"""Iron-mouth""",Isenmouthe (archaic),,Carach Angren,,,,21817.13439860000,12797043.24709999934,,,4069609.7803597855,2089314.7727927873
+Cirith Ungol,Pass,"Orcs, Shelob","""Spider's Cleft""",,,"Cirith Ungol; Cirith Dúath (formerly)",,,,97530.34255570000,88587950.74609999359,,,4056719.0423559113,1970866.8117175251
+North Stair,Stair,Uninhabited,North Stair,,,,,,,37772.68529180000,9866000.80976000056,,,3897829.2126823678,2175338.8300089226
+High Pass,Pass,Beornings,"High Pass; Pass of Imladris",,,"Cirith Forn en Andrath (""the high-climbing pass of the north"")",,,,228985.34707799999,169766756.02399998903,,,3723724.0199418687,2822149.1105082990
+Dimrill Stair,Pass,Caradhras,Dimrill Stair,,,,,,,8863.27618700000,3761022.29804999987,,,3672256.4498783951,2544559.5333409086
+Andrath,Defile,Black Riders,"""Long Climb""",,,Andrath,,,,316267.15913300001,672849104.29499995708,,,3223178.1271552281,2673605.2637417368
+Stonewain Valley,Valley,Gondorians,Stonewain Valley,,"Nand' Ondolunkava; Ondolunkanan(do)","Nan Gondresgion; Imrath Gondraich (""Stonewain Valley"")",,Stānwægna Dæl,,93936.61340720000,98041683.34420001507,,,3932871.8951683287,2009635.8920997109
+Ringló Vale,Valley,Gondorians,Ringló Vale,,,,,,,105118.93406400000,92584102.02799999714,,,3782263.7569293631,1990360.9084992371
+Nan Curunír,Valley,Saruman,"""Saruman's Vale""",,,Nan Curunír,,,,144541.94957400000,1050360166.25000000000,,,3495638.4903692184,2290751.5990861920
+Morgul Vale,Valley,Orcs,"Morgul Vale; ""Deep/Narrow Valley of Black Sorcery""",,,Imlad Morgul,,,,81271.27951840000,58037173.84929999709,,,4044011.8336292184,1973722.2867300983
+Tumladen (Gondor),Valley,Gondorians,"""Valley of Smoothness""",,,Tumladen,,,,103883.19248600000,122287107.91799999774,,,3883075.5190939358,1926071.3845801095
+Imloth Melui,Valley,Gondorians,"""sweet flower-valley""",,,Imloth Melui,,,,347954.83123200003,586143817.74899995327,,,3933833.3970840327,1894120.5912449143
+Harrowdale,Valley,Rohirrim,Harrowdale,,,,,,,55617.68621740000,37099426.51349999756,,,3580342.7292272956,2127469.3129603746
+Entwash Vale,Valley,Rohirrim,Entwash Vale,,,,,,,248906.86523800000,469792128.52899998426,,,3790250.9328801841,2132439.0463008131
+Dwimorberg glen,Glen,Uninhabited,,,,,,,,1904.22754572000,252439.49535000001,,,3579884.8699646681,2116551.1053693681
+Dimrill Dale,Valley,Uninhabited,Dimrill Dale,,,Nanduhirion,Azanulbizar,,,12182.26264690000,6059189.17975999974,,,3674008.9781923522,2539338.7483991603
+Deeping-coomb,Valley,Rohirrim,Deeping-coomb,,,,,,,13146.23421590000,7577270.43953999970,,,3495126.6704642763,2200340.7823992348
+Blackroot Vale,Valley,Gondorians,Blackroot Vale,,,"Mornan (""dark valley"")",,,,169360.29725599999,296234842.14300000668,,,3574768.2872894499,2044896.7161264203
+Water-valley,Valley,Hobbits,Water-valley,,,,,,,184443.74552800000,446399966.56900000572,,,3098559.5997989750,2728673.8556577964
+Paths of the Dead,Pass,Dead Men,Paths of the Dead,,,,,,,130750.90933100000,63589380.08990000188,,,3581974.0591616430,2087262.9299317445
+Anduin,,,"Great River; Great River of Wilderland",,,Anduin,,Langflood,,1398387.20405000006,,Rivers,,3863552.8734884304,2359092.2443350535
+Baranduin,,,Brandywine,"Branda-nîn (Hobbitish Westron; ""border water""); Bralda-hîm (""heady ale"")",,"Baranduin (""golden-brown river"")",,,,674476.16962700000,,Rivers,,3075215.8494579005,2626451.4327400820
+Bruinen,,,Loudwater,,,Bruinen,,,,418822.21669799997,,Rivers,,3551347.4118722240,2712459.9991072444
+Carnen,,,Redwater,,,Carnen,,,,198801.55395100001,,Rivers,,4231351.3743636105,2802945.0828497442
+Nimrodel (river),,,,,,Nimrodel,,,,69776.28008890002,,Rivers,,3663644.2867888934,2495001.7270063409
+Celebrant,,,Silverlode,,,Celebrant,Kibil-nâla,,,119707.49805100000,,Rivers,,3703914.2718492481,2512499.9040729748
+Ciril,,,,,,,,,Ciril/Kiril (unknown origin),131445.53023000000,,Rivers,,3655694.3322732584,1971285.1257930489
+Enchanted River,,,Enchanted River,,,"Gûlduin; Gûlhir",,,,126788.00281999999,,Rivers,,3983607.9722370282,2826447.9607675560
+Erui,,,"""single/alone""",,,Erui,,,,107114.03655600001,,Rivers,,3935357.3354540742,1900321.0132344407
+Gilrain,,,"""spark wander/stray""",,,Gilrain,,,,179960.85518399999,,Rivers,,3778224.4667625166,1912894.1095979752
+Glanduin,,,"""Border river""; Swanfleet river",,,Glanduin,,,,264312.81990599999,,Rivers,,3402527.1537170517,2448482.7358924765
+Greylin,,,"""the noisy one""",,,,,Greylin?,,78547.11840150000,,Rivers,,3769905.5427344935,2967192.9021964003
+Gwathló,,,Greyflood,,,"Gwathló (""Shadowy river from the fens""); Gwathir (""River of Shadow"")",,,,450028.24966099998,,Rivers,,3256362.4696607674,2441525.8001919477
+Harnen,,,"""South Water""",,,Harnen,,,,227125.03215799999,,Rivers,,4166197.1931855320,1587513.6535206202
+Hoarwell,,,"Hoarwell; ""grey spring""",,,"Mitheithel (""grey spring"")",,,,404559.52984300000,,Rivers,,3481680.1167936525,2776804.7950572106
+Langwell,,,Langwell,,,,,Langwell?,,87380.00087220002,,Rivers,,3724056.3918290073,2946710.1738354168
+Lefnui,,,"""fifth""",,,Lefnui,,,,427946.74127699999,,Rivers,,3271048.0406559343,1966716.6789347867
+Lhûn,,,,Lune,,"Lhûn (not valid Sindarin); Sîr Luin (""Blue River"")",,,"Lhûn (Noldorin, ""Blue"")",381987.77970299998,,Rivers,,2914412.4135934589,2947008.7115848879
+Limlight,,,Limlight,,,,,,"Limlaith; Limlich; Limliht; Limhîr",238665.09316799999,,Rivers,,3698982.3533634585,2414242.1287257867
+Little Lune,,,Little Lune,,,,,,,88379.23358700000,,Rivers,,2863955.1288943593,3020529.4549514111
+Morgulduin,,,"""black magic river""",,,Morgulduin,,,,89356.74837820002,,Rivers,,4021458.1115715527,1975249.9105248812
+Morthond,,,Blackroot,,,Morthond,,,,265595.07848400000,,Rivers,,3559381.4837609981,1989606.3636059361
+Norbourn,,,Norbourn,,,,,,,45521.60476130000,,Rivers,,3087048.2146240040,2746514.7356114285
+Poros,,,,,,,,,Poros (unknown),210303.78000100001,,Rivers,,3948657.7383950390,1761338.5320752764
+Rhimdath,,,Rushdown,,,,,,Rhimdath (Noldorin),54768.09671150000,,Rivers,,3770757.3424620554,2860208.2731491728
+Ringló,,,"""cold fenland""",,,Ringló,,,,281073.43533399998,,Rivers,,3690885.3546709958,1946555.8477993500
+River Running,,,River Running,,,Celduin,,,,627965.58992000006,,Rivers,,4239171.3996762792,2714954.0284465812
+Serni,,,"""stony""",,,Serni,,,,190704.49252999999,,Rivers,,3808627.1738168416,1863237.8127394901
+Shirebourn,,,"Shirebourn; ""River of the Shire""; ""Bright-stream""",,,,,,Scirburna (Old Hobbitish),71531.90542980000,,Rivers,,3096701.6144733918,2680237.3120341091
+Sirith,,,"""a flowing""",,,Sirith,,,,149353.07440600000,,Rivers,,3882170.5620567319,1897585.1610605835
+Celos,,,"""flow out swiftly""",,,Celos,,,,84260.60051020002,,Rivers,,3857286.2757686810,1945172.1832330725
+The Water,,,"The Water; the Shire-water",,,,,,,135313.34515700000,,Rivers,,3074876.1358724213,2738408.5819971310
+Withywindle,,,"Withywindle; ""willow spindle/reel""",,,,,,Withigwindel (Old Hobbitish),51812.54175410000,,Rivers,,3143268.2472863542,2689902.5627441504
+Adorn,,,,,,,,,Adorn (pre-Númenórean origin),212357.38475000000,,Rivers,,3385547.1565331817,2150935.9192626434
+Entwash,,,Entwash,,,Onodló,,Entwaesc,,713000.36503300001,,Rivers,,3758538.5123652657,2177900.6061810288
+Isen,,,"""Iron""",,,"Sîr Angren (""iron river"")",,Isen,,499981.70658699999,,Rivers,,3335529.2629019907,2201380.8456991650
+Mering Stream,,,"""Boundary stream""",,,Glanhír,,Mering [Stream],,101208.25103499999,,Rivers,,3798845.3925243313,2097261.5347252814
+Snowbourn,,,Snowbourn,,,,,Snāwburna,,127086.45164600000,,Rivers,,3623646.7406712594,2146174.3089282410
+Deeping-stream,,,Deeping-stream,,,,,,,197406.08727399999,,Rivers,,3579471.4618155458,2214667.3410798595
+Sirannon,,,Gate Stream,,,Sirannon,,,,236928.97398000001,,Rivers,,3521468.9396629846,2496248.3099632049
+Stock-brook,,,"Stock-brook; ""the brook running through Stock""",,,,,,Se Stocbroc (Old Hobbitish),26023.27176430000,,Rivers,,3119155.5110820071,2704558.0007458772
+Thistle Brook,,,Thistle Brook,,,,,,,29114.99210540000,,Rivers,,3096470.6582647120,2682733.2636070000
+Forest River,,,Forest River,,,,,,,328204.06257700000,,Rivers,,3946801.8084684056,2903616.4312510155
+Gladden River,,,Gladden River,,,"Sîr Ninglor (""River Goldwater"")",,,,146156.23722499999,,Rivers,,3723473.0786694526,2714227.3729685661
+Great East Road,Major road,,"East Road; East-West Road; Great East Road; Old Road",,,,,,,930327.50777999999,,Roads,East Road,3343871.9017174346,2744545.6094126967
+The Greenway,Road,,"Greenway; North-South Road; Great Road; Royal Road",,,,,,,259735.43446799999,,Roads,Greenway,3102510.7123787543,2608816.7203998230
+North-South Road,Major road,,"North-South Road; Great Road; Royal Road; Greenway; Old South Road; Great West Road; South Road",,,,,,,1448653.98509000009,,Roads,North-South Road,3548167.0449148435,2245658.3094042153
+Great West Road,Road,,Great West Road,,,,,,,640238.55790300004,,Roads,Great West Road,3727401.0604526582,2097200.0877636080
+South Road,Road,,"South Road; North-South Road; Great Road; Royal Road",,,,,,,148164.43476599999,,Roads,South Road,3927758.9584214464,1893987.4909492859
+Morgul Road,Road,,Morgul Road,,,,,,,317890.99809100002,,Roads,Morgul Road,4057804.1762443255,2028342.9095937463
+Gorgoroth Road,Road,,Gorgoroth Road,,,,,,,248892.75373000000,,Roads,Gorgoroth Road,4127526.8917117934,2041910.2037396072
+Harad Road,Road,,Harad Road,,,,,,,631533.30721300002,,Roads,Harad Road,4008623.0536442129,1693136.5356804398
+Sauron's Road,Road,,Sauron's Road,,,,,,,49231.85172920000,,Roads,Sauron's Road,4142487.1526008290,2030873.9900993288
+Bywater Road,Road,,Bywater Road,,,,,,,93605.80793729999,,Roads,Bywater Road,3042352.2668608190,2725947.1491063917
+Causeway,Road,,Causeway,,,,,,,44817.56715260000,,Roads,Causeway,3124191.6227912996,2706334.0500680949
+Bagshot Row,Road,,"Bagshot Row; New Row",,,,,,,8095.46989406000,,Roads,Bagshot Row,3075407.5082712686,2730387.0438028038
+Elf-path,Pathway,,Elf-path,,,,,,,240598.12394399999,,Roads,Elf-path,3923476.6541394391,2859403.6761614708
+Stock Road,Road,,Stock Road,,,,,,,71469.68395140000,,Roads,Stock Road,3095885.1115146838,2708748.3599244459
+Northway,Road,,Northway,,,,,,,51718.95803360000,,Roads,Northway,3097494.4979164223,2746353.8231224520
+unnamed road durthang-morgul pass,Road,,Morgul Road,,,,,,,120865.85408300000,,Roads,Morgul Road,4050948.8954018098,2038018.1322688577
+Dimrill Stair,Pass,,Dimrill Stair,,,,,,,7080.70696865000,,Roads,Dimrill Stair,3671873.5232342961,2542953.6331701162
+Ferry Lane,Road,,Ferry Lane,,,,,,,1840.17143076000,,Roads,Ferry Lane,3125280.8753458485,2705762.5289155021
+Gateway,Road,,Gateway,,,,,,,203.30576294100,,Roads,Gateway,3958031.5734015489,1953211.8508566152
+Old Forest Road,Road,,"Old Forest Road; Forest Road",,,"Men-i-Naugrim (""Road of the Dwarves"")",,,,373682.14185199997,,Roads,Old Forest Road,3947520.4748000079,2767420.1115714093
+South Lane,Lane,,South Lane,,,,,,,391.61978878100,,Roads,South Lane,3079618.2605132088,2726194.5112518203
+Hill Road,Road,,Hill Road,,,,,,,13805.16112700000,,Roads,Hill Road,3079432.4476349172,2732037.2934373403
+Hobbiton Road,Road,,Hobbiton Road,,,,,,,4683.69190971000,,Roads,Hobbiton Road,3080061.6081042979,2726165.1197602809
+Deeping-road,Road,,Deeping-road,,,,,,,48782.71209420000,,Roads,Deeping-road,3482056.5057754223,2194289.3857606621
+Paths of the Dead,Pass,,"Paths of the Dead; Dwimorberg Pass",,,,,,,64197.87406260000,,Roads,Paths of the Dead,3581516.1897687581,2088832.3012616199
+Unnamed Gondor road,Road,,"South Road; North-South Road; Great Road; Royal Road",,,,,,,590052.57559300005,,Roads,South Road,3761219.3184527294,1884027.5982843735
+Causeway,Road,,"South Road; North-South Road; Great Road; Royal Road",,,,,,,28097.72741800000,,Roads,South Road,3974812.3639732311,1961797.6392564999
+Lampwrights' Street,Street,,Lampwrights' Street,,,Rath Celerdain,,,,1491.44172715000,,Roads,Lampwrights' Street,3957364.4076767657,1952733.8370897961
+Old South Road,Road,,"Old South Road; North-South Road; Great Road; Royal Road",,,,,,,324966.60267400002,,Roads,Old South Road,3381661.7075590026,2344862.2598567237
+Rath Dínen,Street,,"""Silent Street""",,,Rath Dínen,,,,560.57454194300,,Roads,Rath Dínen,3954905.5379708465,1953631.4633834371
+Stair of the Hold,Road,,Stair of the Hold,,,,,,,4580.85616569000,,Roads,Stair of the Hold,3579408.5218003164,2121928.1635483042
+Straight Stair,Stair,,"Straight Stair; Stairs of Cirith Ungol",,,,,,,18409.55319710000,,Roads,Straight Stair,4047526.6545053418,1985322.4578822840
+Winding Stair,Stair,,"Winding Stair; Stairs of Cirith Ungol",,,,,,,20251.03137760000,,Roads,Winding Stair,4063953.6152503905,1986493.7804541287
+Under-way,Passage,,Under-way,,,,,,,729.46895993700,,Roads,Under-way,4070666.3429955682,1988100.2658046193
+Southward Road,Road,,Southward Road,,,,,,,197260.44306300001,,Roads,Southward Road,4018246.3774426375,2077541.6218810717
+unnamed Shire road through Longbottom,,,,,,,,,,63293.57644320000,,Roads,,3063870.7086181012,2646895.4831938650
+unnamed Shire road to Pincup,,,,,,,,,,55478.46133810000,,Roads,,3069890.0395742711,2671731.5278890273
+unnamed Shire road,,,,,,,,,,49845.71720630000,,Roads,,3116625.6807029531,2743774.5179268024
+unnamed Shire road to Tookbank,,,,,,,,,,7331.07065496000,,Roads,,3053946.1432206780,2703340.2803295287
+unnamed Shire road,,,,,,,,,,35686.99921940000,,Roads,,3117518.0032846406,2755632.4104431844
+unnamed Shire road,,,,,,,,,,58165.07301790000,,Roads,,3067365.5317743849,2760107.6473806561
+unnamed Shire road,,,,,,,,,,92146.51908450000,,Roads,,2989148.1276380778,2732133.9957647789
+unnamed Shire road,,,,,,,,,,37003.89141340000,,Roads,,3038077.6756596835,2714495.3628533892
+unnamed Shire road,,,,,,,,,,24904.08642640000,,Roads,,3036187.8341871351,2733954.1673960229
+unnamed Shire road,,,,,,,,,,49743.95849590000,,Roads,,3023308.4392856299,2750573.1142548216
+unnamed Shire road,,,,,,,,,,78031.57400420000,,Roads,,3057680.0369473742,2794121.2439082712
+unnamed Shire road,,,,,,,,,,40058.70341870001,,Roads,,3092828.3310319684,2791267.2090935828
+unnamed Shire road,,,,,,,,,,31572.16362560000,,Roads,,3017960.9079647339,2730587.8650474665
+unnamed Shire road,,,,,,,,,,17483.10512480000,,Roads,,3110826.9232722018,2681705.4876365326
+City Wall,Wall,,City Wall,,,Othram,,,,12847.17302180000,,Walls,,3956071.8478475809,1953385.5387253831
+Deeping Wall,Wall,,Deeping Wall,,,,,,,72.90251418060,,Walls,,3494071.8832567865,2199939.7171588293
+Helm's Dike,Wall,,Helm's Dike,,,,,,,1624.15639078000,,Walls,,3494347.3054764727,2199980.6882374692
+High Hay,Hedge,,"High Hay; The Hedge",,,,,,,53756.06852930000,,Walls,,3134089.6965828757,2704552.4911940610
+Rammas Echor,Wall,,"""Great-wall Circle""",,,"Rammas Echor; the Rammas",,,,60165.48480020000,,Walls,,3965333.2615342815,1960769.2353019535
+Ring of Isengard,Wall,,Ring of Isengard,,,,,,,16276.99549840000,,Walls,,3490340.9955958482,2297164.0845018495
+Brandywine Bridge,,,"Brandywine Bridge; Bridge of Stonebows",,,i Varanduiniant,,,,,,Bridges,,3136528.0200942531,2726530.9523464330
+Bridge of Khazad-dûm,,,"Bridge of Khazad-dûm; Durin's Bridge",,,,,,,,,Bridges,,3670861.1072279215,2546448.4895930961
+Bridge of Nimrodel,,,Bridge of Nimrodel,,,,,,,,,Bridges,,3686834.7367982119,2503844.9866068363
+Bridge of Tharbad,,,Bridge of Tharbad,,,,,,,,,Bridges,,3264987.5181461871,2444617.0070574358
+Ethring,,,"""across [the Ringló river]""",,,Ethring,,,,,,Bridges,,3690667.6749671991,1937242.1728856748
+Last Bridge,,,Last Bridge,,,,,,,,,Bridges,,3444604.6828761250,2731893.3454636298
+Bag End,Building,"Bilbo, Frodo, Hobbits",Bag End,"Laban-neg; Labin-nec",,,,,,,,Buildings,,3071612.3109812140,2731342.7141542807
+White Towers,Tower,Elves,White Towers,,,,,,,,,Buildings,,2896165.3671647385,2719423.8539164588
+All-Welcome Inn,Inn,Hobbits,All-Welcome Inn,,,,,,,,,Buildings,,3097472.1841239482,2721940.6324021257
+Elostirion,Tower,Elves,,,,Elostirion,,,,,,Buildings,,2888358.4419499785,2716728.5936601758
+Bridge Inn,Inn,Hobbits,Bridge Inn,,,,,,,,,Buildings,,3134388.6063464582,2725969.8952387981
+Green Dragon,Inn,Hobbits,Green Dragon,,,,,,,,,Buildings,,3082041.3224643022,2725261.1597554758
+The Floating Log,Inn,Hobbits,The Floating Log,,,,,,,,,Buildings,,3104990.5355862156,2723842.0300891027
+The Golden Perch,Inn,Hobbits,The Golden Perch,,,,,,,,,Buildings,,3126436.2036556527,2711240.3850636892
+The Prancing Pony,Inn,"Bree-men, Hobbits, Barliman Butterbur, Nob, Bob",The Prancing Pony,,,,,,,,,Buildings,,3192523.9366757423,2733920.9896298237
+Barad-dûr,Tower,"Sauron, Nazgûl, Orcs","""Dark Tower""",,,Barad-Dûr,,,Lugbúrz (Black Speech),,,Buildings,,4159292.4814183111,2047241.5692766644
+Durin's Tower,Tower,"Dwarves (originally); uninhabited (during the War of the Ring)",Durin's Tower,,,,,,,,,Buildings,,3597794.0967568159,2517370.0510802269
+Orthanc,Tower,"Dúnedain, Gondorians, Saruman (during the War of the Ring)","""Mount Fang"" (Sindarin); ""Cunning Mind"" (Old English/Rohirric)",,,Orthanc,,Orthanc,,,,Buildings,,3490290.5864549354,2297063.8571488559
+Narchost,Tower,"Gondorians (originally); forces of Sauron (during the War of the Ring)","""bitter-biting fort""",,,Narchost,,,,,,Buildings,,4048715.7697223648,2156156.9121461213
+Carchost,Tower,"Gondorians (originally); forces of Sauron (during the War of the Ring)","""fang fort""",,,Carchost,,,,,,Buildings,,4054462.7564762458,2156397.8466064557
+Tower of Cirith Ungol,Tower,"Gondorians (originally); forces of Sauron (during the War of the Ring)","""Spider's cleft""",,,Cirith Ungol,,,,,,Buildings,,4071018.3694507256,1988072.4219175801
+Tower of Ecthelion,Tower,Gondorians,"Tower of Ectelion; White Tower; Tower of Denthor",,,,,,,,,Buildings,,3956292.9361377726,1953692.7304774483
+Beorn's Hall,Building,Beorn (Man),Beorn's Hall,,,,,,,,,Buildings,,3818858.3234633952,2821650.7534870245
+Brandy Hall,Building,Hobbits,Brandy Hall,,,,,,,,,Buildings,,3134628.6352069452,2708285.0223502256
+Chamber of Mazarbul,Building,"Balin; Dwarves; uninhabited during the War of the Ring","Chamber of ""records""",,,,Chamber of Mazarbul,,,,,Buildings,,3638291.0152898799,2583908.7100260854
+Cracks of Doom,Building,Sauron,Cracks of Doom,,,Sammath Naur,,,,,,Buildings,,4141664.5356203690,2031961.8878921345
+Dome of Stars,Building,Gondorians,Dome of Stars,,,,,,,,,Buildings,,3988161.0639913823,1965615.2495146657
+Durthang,Building,"Gondorians (originally); Orcs (during the War of the Ring)","""Dark oppression""",,,Durthang,,,,,,Buildings,,4028880.5203878055,2088051.4317582101
+Elvenking's Halls,Building,Silvan Elves,Elvenking's Halls,,,,,,,,,Buildings,,4015399.5343071590,2875579.6582088023
+Endless Stair,Building,Uninhabited during the War of the Ring,Endless Stair,,,,,,,,,Buildings,,3638226.3114005327,2584105.3123937175
+Ent-houses,Building,Ents,Ent-houses,,,,,,,,,Buildings,,3558735.2483870089,2310644.3747131191
+First Hall,Building,"Dwarves (originally); Uninhabited during the War of the Ring",First Hall,,,,,,,,,Buildings,,3671059.3199952911,2546377.9575047083
+Great Chamber of Thrór,Building,"Dwarves; Smaug",Great Chamber of Thrór,,,,,,,,,Buildings,,4055207.4671536465,2901526.8641371578
+Great Hall of Feasts,Building,Gondorians,Great Hall of Feasts,,,Merethrond,,,,,,Buildings,,3956282.0006395727,1953855.6748506241
+Great Hall of Osgiliath,Building,Gondorians,Great Hall of Osgiliath,,,,,,,,,Buildings,,3987876.4060382391,1966603.2564520128
+Great Hall of Thráin,Building,"Dwarves; Smaug",Great Hall of Thráin,,,,,,,,,Buildings,,4050356.6607522294,2907023.1300323159
+Great House,Building,Men,Great House,,,,,,,,,Buildings,,4080447.7834983766,2846437.3942064419
+Great Smials,Building,Took family (Hobbits),Great Smials,,,,,,,,,Buildings,,3064413.2419663817,2703624.9026174136
+Hall of Fire,Building,Elrond,Hall of Fire,,,,,,,,,Buildings,,3640417.8326397464,2784922.9692334533
+The Forsaken Inn,Inn,"(Abandoned) Bree-men, Hobbits",The Forsaken Inn,,,,,,,,,Buildings,,3215796.3434444442,2730340.3180193007
+Ivy Bush,Inn,Hobbits,Ivy Bush,,,,,,,,,Buildings,,3082041.3224643022,2725261.1597554758
+Sea-ward Tower,Tower,Gondorians,Sea-ward Tower,,,Tirith Aear,,,,,,Buildings,,3553798.0130998194,1851822.9320480973
+Dol Guldur,Building,"Sauron, forces of Sauron, Khamûl","""Hill of Sorcery""",,,Dol Guldur,,,,,,Buildings,,3868943.8518179054,2532517.8350864761
+Grimslade,Building,"Rohirrim, Grimbold",Grimslade,,,,,Grimslaed,,,,Buildings,,3502389.8403630555,2186859.6518915817
+House of the Mírdain,Building,"Noldor, Celebrimbor","House of the ""Jewel-smiths""",,,[House of the] Mírdain,,,,,,Buildings,,3425091.6650885195,2454631.7500087246
+Houses of Healing,Building,Gondorians,Houses of Healing,,,,,,,,,Buildings,,3956046.2047783951,1953304.3135413935
+Huts of the raft-elves,Building,Raft-elves,Huts of the raft-elves,,,,,,,,,Buildings,,4021255.7649430558,2871005.5838618241
+King's House,Building,"Gondorian Kings (originally); uninhabited during the War of the Ring",King's House,,,,,,,,,Buildings,,3988044.1511106263,1966585.3362549616
+Lockholes,Building,Hobbits,Lockholes,,,,,,,,,Buildings,,3005630.4122437015,2697701.8981925100
+Mathom-house,Building,Hobbits,Mathom-house,"kast (""mathom"") [house]",,,,,,,,Buildings,,3005630.4122437015,2697701.8981925100
+Meduseld,Building,Rohirrim,"Golden Hall; ""Mead Hall""/""hall of feasts""",,,,,Meduseld,,,,Buildings,,3578535.5870273113,2136575.6792697459
+Old Grange,Building,Hobbits,Old Grange,,,,,,,,,Buildings,,3079310.8444138169,2730774.0592478961
+Old Mill,Building,Hobbits,Old Mill,,,,,,,,,Buildings,,3079846.1717256904,2730761.6342499405
+Rhosgobel,Building,Radagast (Maia/Wizard),"""russet village or 'town' (enclosure)""",,,Rhosgobel,,,,,,Buildings,,3842624.0562508847,2805729.7979080640
+Second Hall,Building,"Dwarves (originally); Uninhabited during the War of the Ring",Second Hall,,,,,,,,,Buildings,,3658669.4800350070,2563098.4583520405
+Shirriff-house,Building,Hobbits,Shirriff-house,,,,,,,,,Buildings,,3104990.5355862156,2723842.0300891027
+Tower Hall,Building,Gondorians,Tower Hall,,,,,,,,,Buildings,,3956303.5152360350,1953734.4219705872
+Town Hole,Building,"Hobbits, mayor of Michel Delving",Town Hole,,,,,,,,,Buildings,,3005630.4122437015,2697701.8981925100
+Twenty-first Hall,Building,"Dwarves (originally); Uninhabited during the War of the Ring",Twenty-first Hall,,,,,,,,,Buildings,,3638482.8446582998,2583302.1625259370
+Two Watchers,Building,Forces of Sauron,Two Watchers,,,,,,,,,Buildings,,4071858.5776124001,1988371.9969682619
+Warning beacons of Gondor,Building,Gondorians,Warning beacons of Gondor,,,,,,,,,Buildings,,3766689.6804518327,2064413.0179497600
+Warning beacons of Gondor,Building,Gondorians,Warning beacons of Gondor,,,,,,,,,Buildings,,3820267.3837314248,2058735.5774844289
+Warning beacons of Gondor,Building,Gondorians,Warning beacons of Gondor,,,,,,,,,Buildings,,3837003.1843762398,2042877.8644950539
+Warning beacons of Gondor,Building,Gondorians,Warning beacons of Gondor,,,,,,,,,Buildings,,3864651.3265245785,2030755.8339906819
+Warning beacons of Gondor,Building,Gondorians,Warning beacons of Gondor,,,,,,,,,Buildings,,3894178.8854635055,2020013.7290591376
+Wellinghall,Building,"Ents, Treebeard","""hall (under or behind) the outflow of the spring of Entwash""",,,,,,,,,Buildings,,3546277.5647378936,2331799.3527304120
+Withy-weir,Building,,Withy-weir,,,,,,,,,Buildings,,3141125.9906372949,2687387.0545906238
+White Towers,Tower,Elves,White Towers,,,,,,,,,Buildings,,2895744.1326340884,2713070.6609623767
+Old Guesthouse,Inn,Gondorians,Old Guesthouse,,,Sennas laur,,,,,,Buildings,,3956761.6435606102,1952297.7567071021
+Black Pits,Building,"	Sauron, Nazgûl, Orcs",Black Pits,,,,,,,,,Buildings,,4159229.0594287510,2047307.7151657753
+Eagle's Eyrie,Eyrie,Eagles,Eagle's Eyrie,,,,,,,,,Buildings,,3758206.6163483858,2838328.6694413684
+Warning beacons of Gondor,Building,Gondorians,Warning beacons of Gondor,,,,,,,,,Buildings,,3926642.6688190470,2017738.5492336971
+Warning beacons of Gondor,Building,Gondorians,Warning beacons of Gondor,,,,,,,,,Buildings,,3954957.3350576535,2009311.4863210283
+Brockenbores,,,"Brockenbores; Brockenborings; ""badger-burrowings""",,,,,,,,,Cave_entrances,,3108919.0774394646,2750970.3823230118
+Front Porch,,,Front Porch,,,,,,,,,Cave_entrances,,3702268.9098573104,2822508.7851457670
+Glittering Caves,,,"Glittering Caves; ""caves of glory""; ""Caverns of Helm's Deep""",,,"Aglarond (""caves of glory"")",,"Glæmscrafu (""Caverms of Helm's Deep"")",,,,Cave_entrances,,3492295.1565249264,2200152.5071032010
+Henneth Annûn,,,"""Window of the Sunset""/""Window of the West""",,,Henneth Annûn,,,,,,Cave_entrances,,3989860.3236116320,2043698.6450599320
+Shelob's Lair,,,Shelob's Lair,,,"Torech Ungol (""tunnel of the spider"")",,,,,,Cave_entrances,,4069869.2930398951,1988146.9260053153
+Troll's Cave,,,Troll's Cave,,,,,,,,,Cave_entrances,,3581353.9964633211,2752489.1352729797
+Wellinghall,,,"""hall (under or behind) the outflow of the spring of Entwash""",,,,,,,,,Cave_entrances,,3546277.5647378936,2331799.3528304100
+Argonath,,,"Pillars of the Kings; Gates of Argonath; Gates of the Kings; Gates of Gondor",,,Argonath,,,,,,Doors_Gates,,3902390.3956116582,2223226.2187046185
+Argonath,,,"Pillars of the Kings; Gates of Argonath; Gates of the Kings; Gates of Gondor",,,Argonath,,,,,,Doors_Gates,,3905882.9026366919,2222908.7179568857
+Back Door,,,Back Door,,,,,,,,,Doors_Gates,,4040680.4430452064,2907993.0672726370
+Black Gate,,,"Black Gate; Gate of Mordor",,,"Morannon (""Black Gate"")",,,,,,Doors_Gates,,4052198.6605489850,2156056.3134626821
+Buckland Gate,,,"Buckland Gate; Hay Gate; North Gate",,,,,,,,,Doors_Gates,,3134801.7422784492,2726065.2035231069
+Causeway Forts,,,Causeway Forts,,,,,,,,,Doors_Gates,,3974853.4818821847,1961923.4016224479
+Dark Door,,,"Dark Door; Gates of the Dead; Forbidden Door",,,,,,,,,Doors_Gates,,3579676.1994395331,2116219.0092210285
+Doors of Durin,,,"Doors of Durin; West-gate; West-door of Moria; Elven Door; Moria Gate",,,,,,,,,Doors_Gates,,3545477.4287696183,2499716.7996864505
+Fen Hollen,,,"Steward's Door; Closed Door; ""shut door""",,,Fen Hollen,,,,,,Doors_Gates,,3955900.5513023734,1953757.4080668015
+Forannest,,,"""North Entrance""",,,Forannest,,,,,,Doors_Gates,,3966066.1839288250,1972843.6303246692
+Forest Gate,,,Forest Gate,,,,,,,,,Doors_Gates,,3810851.7339815046,2885561.5278655030
+Front Gate,,,"Front Gate; Gate of Erebor",,,,,,,,,Doors_Gates,,4055521.6722019166,2900853.2585480511
+Gate of Isengard,,,Gate of Isengard,,,,,,,,,Doors_Gates,,3490155.5481771678,2294703.2336374819
+Goblin-gate,,,"Goblin-gate; Back-door",,,,,,,,,Doors_Gates,,3762915.0518732439,2833925.1452663094
+Great Gate of Minas Tirith,,,Great Gate of Minas Tirith,,,,,,,,,Doors_Gates,,3957654.8801135570,1953185.1755610071
+Great Gates,,,"Great Gates; East Gates; Dimrill Gate; Moria Gate",,,,,,,,,Doors_Gates,,3670925.0021174033,2546315.3123150207
+Helm's Gate,,,Helm's Gate,,,,,,,,,Doors_Gates,,3498186.5232550427,2200331.2855737694
+Undergate,,,Undergate,,,,,,,,,Doors_Gates,,4071018.3694507256,1988072.4220175815
+West-gate of Bree,,,West-gate of Bree,,,,,,,,,Doors_Gates,,3191481.5983473435,2733822.7073460035
+Henneth Annûn,,,"""Window of the Sunset""/""Window of the West""",,,Henneth Annûn,,,,,,Falls,,3989860.3236116320,2043698.6450599320
+Rauros,,,"""roaring spray""; ""Rush-rain""/""Roar-rain""",,,Rauros,,,,,,Falls,,3898941.8176793903,2177626.9786115400
+Stair Falls,,,Stair Falls,,,,,,,,,Falls,,3545264.2865047082,2499398.3707388751
+Crossings of Erui,,,Crossings of Erui,,,Thraid Erui,,,,,,Fords,,3928389.3281314969,1906417.8341602348
+Entwade,,,"Entwade; Ent ""ford""",,,,,Endwaed,,,,Fords,,3672317.7334881201,2194598.3369175754
+Ford of Bruinen,,,"Ford of Bruinen; Ford of Loudwater; Ford of Rivendell",,,[ford of] Bruinen,,,,,,Fords,,3597155.2504619882,2763462.0467665307
+Ford of Carrock,,Beornings,Ford of Carrock,,,,,,,,,Fords,,3804320.0258568153,2820039.9844522029
+Fords of Isen,,Rohirrim,"Fords of Isen; ""fords of iron""",,,Ethraid Engrin (singular Athrad Angren),,,,,,Fords,,3490483.9771230966,2229608.5655539036
+Crossings of Poros,,,"Crossings of Poros; Fords of Poros",,,,,,,,,Fords,,3994788.5764003024,1758243.9850538373
+North Undeep,,,North Undeep,,,,,,,,,Fords,,3808018.8279478848,2402055.8977641985
+Old Ford,,,Old Ford,,,,,,,,,Fords,,3813163.2920009568,2799905.8713668436
+Sarn Ford,,"Rangers of the North (pre-War of the Ring); Ringwraiths","""Stony Ford""",,,Half-translation of Sarn Athrad,,,,,,Fords,,3107316.9751032144,2579080.1406210028
+South Undeep,,,South Undeep,,,,,,,,,Fords,,3869532.1624210482,2336431.0136679076
+Tharbad,,Uninhabited,"""road-crossing""; ""the Stepping Stones""",,,Tharbad,,,,,,Fords,,3262645.3413317800,2447026.3348607905
+Barad-dûr,Tower,"Sauron, Nazgûl, Orcs","""Dark Tower""",,,Barad-Dûr,,,Lugbúrz (Black Speech),,,Fortresses,,4159292.4814183111,2047241.5693766661
+Black Gate,Gate,"Gondorians (originally); Orcs (during the War of the Ring)",Black Gate,,,Morannon,,,,,,Fortresses,,4052198.6605489850,2156056.3134626821
+Carchost,Tower,"Gondorians (originally); forces of Sauron (during the War of the Ring)","""fang fort""",,,Carchost,,,,,,Fortresses,,4054462.7564762458,2156397.8467064574
+Carn Dûm,Fortress,"The Witch-king, Orcs, Men of Darkness, Wolves, Trolls",,,,,,,,,,Fortresses,,3391162.3941742405,3078938.8790301234
+Dol Guldur,Fortress,"Sauron, forces of Sauron, Khamûl","""Hill of Sorcery""",,,Dol Guldur,,,,,,Fortresses,,3868943.8518179054,2532517.8351864740
+Dunharrow,Fortified refuge,Rohirrim,"""the heathen fane on the hillside""",Dunharrow,,,,Dúnharg/Dūnhaerg,,,,Fortresses,,3578891.3370687440,2120746.6141756587
+Durthang,Fortress,"Gondorians (originally); Orcs (during the War of the Ring)","""Dark oppression""",,,Durthang,,,,,,Fortresses,,4028880.5203878055,2088051.4318582080
+Fornost Erain,City/Fortress,Dúnedain,"""Northern Fortress (of the) Kings""; Deadman's Dike (colloquial)",Norbury of the Kings,,Fornost Erain,,,,,,Fortresses,,3177248.2629905492,2814290.3820987493
+Helm's Deep,Defensive System,"Gondorians; Rohirrim",Helm's Deep,,,,,,,,,Fortresses,,3494059.0150345415,2199934.4098391086
+Hornburg,Fortress,"Gondorians; Rohirrim",horn fortress,,,,,"Hornburg; Súthburg (""southern fortress""; former name)",,,,Fortresses,,3494059.0150345415,2199934.4098391086
+Isengard,Fortress,"Dúnedain, Dunlendings; Saruman, Orcs, Wicked men; Ents, Huorns","""Iron Fortress""; ""Iron-courd""",,,Angrenost,,Isengard,,,,Fortresses,,3490504.8597196564,2297202.5957260132
+Minas Morgul,Tower/City,"Gondorians (originally); Orcs (during the War of the Ring)","Tower of Black Sorcery; Dead City; Tower of the Moon, Tower of the Rising Moon, Moon-tower",,,"Minas Morgul (""tower of black sorcery""); Minas Ithil (""tower of the moon"")",,,,,,Fortresses,,4033830.8812728375,1979976.7548503540
+Narchost,Tower,"Gondorians (originally); forces of Sauron (during the War of the Ring)","""bitter-biting fort""",,,Narchost,,,,,,Fortresses,,4048715.7697223648,2156156.9122461230
+Tower of Cirith Ungol,Tower,Forces of Sauron,"""Spider's cleft""",,,Cirith Ungol,,,,,,Fortresses,,4071018.3694507256,1988072.4220175815
+Minas Tirith,Tower/City,Gondorians,"""Tower of the Guard""; The Guarded City; ""Tower of the Sun"" (formerly)",,,"Minas Tirith; Minas Arnor (formerly)",,"Mundburg (""Protecting Hill"")",Stone-houses (Woses of Drúadan Forest),,,Fortresses,,3956143.3098624046,1953066.8680804819
+Balin's Tomb,,,Balin's Tomb,,,,,,,,,Graves_Tombs,,3638482.8446582998,2583360.5273163319
+Barrowfield,,,Barrowfield,,,,,,,,,Graves_Tombs,,3573400.2800727263,2134990.7013306767
+Battle Pit,,,Battle Pit,,,,,,,,,Graves_Tombs,,3081110.2539175823,2724335.3800078854
+Death Down,,,Death Down,,,,,,,,,Graves_Tombs,,3496202.1442817226,2200251.9103868380
+Haudh in Gwanûr,,,"""mound of the brothers""",,,Haudh in Gwanûr,,,,,,Graves_Tombs,,3985661.6255028625,1759794.9091985114
+House of the Kings,,,House of the Kings,,,,,,,,,Graves_Tombs,,3954629.8649115642,1953682.0351792087
+House of the Stewards,,,House of the Stewards,,,,,,,,,Graves_Tombs,,3954849.0928754737,1953578.9797961749
+Mound of Riders,,,Mound of Riders,,,,,,,,,Graves_Tombs,,3490483.9771230966,2229608.5655539036
+Mounds of Mundburg,,,Mounds of Mundburg,,,,,,,,,Graves_Tombs,,3968145.7170864721,1962527.2744230328
+Tomb of Elendil,,,"Tomb of Elendil; Mound of Elendil",,,,,,,,,Graves_Tombs,,3766891.9317185362,2064257.5015753619
+Edhellond,,"Sindar, Nandor, Gondorians","""Elf Haven""",,,Edhellond,,,,,,Harbors,,3581857.7582803890,1879228.7869363204
+Forlond,,Elves,"""Northhaven""",,,Forlond,,,,,,Harbors,,2649403.4572887272,2818510.4947039969
+Grey Havens,,Elves,Grey Havens,,,Mithlond,,,,,,Harbors,,2834943.5995435715,2719801.5441542827
+Grey Havens,,Elves,Grey Havens,,,Mithlond,,,,,,Harbors,,2812665.6383111551,2742344.0892431401
+Grindwall,,,Grindwall,,,,,,,,,Harbors,,3126830.3272907659,2681840.8348036893
+Harlond (Gondor),,Gondorians,"""Southhaven""",,,Harlond,,,,,,Harbors,,3957571.4569272920,1949371.2331888899
+Harlond (Lindon),,Elves,"""Southhaven""",,,Harlond,,,,,,Harbors,,2703895.2125178427,2650421.0407762751
+Lond Daer,,Númenóreans,"""Great Haven""",,"Vinyalondë (""New Haven"")","Lond Daer Enedh (""Great Haven"")",,,,,,Harbors,,3062070.1040521339,2278684.5725746043
+Mithe Steps,,None,Mithe Steps,,,,,,,,,Harbors,,3118788.1404147372,2685162.6683568209
+Pelargir,,Gondorians,"""Garth of [the] Royal Ships""",,,Pelargir,,,,,,Harbors,,3897987.5797364865,1826858.4826579504
