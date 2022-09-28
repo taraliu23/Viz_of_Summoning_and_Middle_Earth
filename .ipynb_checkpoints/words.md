@@ -1,8 +1,9 @@
+## Brief Intro
+
+This is a project using matplotlib, geopandas, folium, pandas, etc. to visualize data related to the metal band Summoning, using middle earth geo features to better illustrate, hoping to 
+
 ## What is middle earth?
 ### gantt chart/ time line - matplotlib
-
-[gantt chart]([https://www.geeksforgeeks.org/python-basic-gantt-chart-using-matplotlib/](https://www.geeksforgeeks.org/python-basic-gantt-chart-using-matplotlib/)
-[timeline](https://matplotlib.org/stable/gallery/lines_bars_and_markers/timeline.html)
 
 [time data](https://lotr.fandom.com/wiki/Timeline_of_Arda#Years_of_the_Trees)
 
