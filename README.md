@@ -74,6 +74,9 @@ The font used in wordcloud.ipynb is free of personal use, [downloaded from here]
 ## Reference
 
 [What is summoning?](https://tolkiengateway.net/wiki/Summoning)
+
 [pythonic-metal](https://github.com/ijmbarr/pythonic-metal)
+
 [Middle earth](https://en.wikipedia.org/wiki/Middle-earth)
+
 [Rose, Robert A. (2020) GIS & Middle Earth Presentation & Data Set. William & Mary.](https://doi.org/10.21220/RKEZ-X707)
