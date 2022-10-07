@@ -1,10 +1,79 @@
 # Viz_of_Summoning_and_Middle_Earth 
-A project for visualization summer school, processing text data of metal band Summoning and geo data of the middle earth.
- 
-## It's UNfinished and chaotics as you can tell, and I make it public only to push myself, knowing no one cares :)
+This is a  project for PKU visualization summer school, processing text data of metal band Summoning and geo data of the middle earth to find hazy patterns and relationships between them.
 
-In lyrics_for_wordcloud.txt, the [Mirdautas Vras lyrics](https://www.metal-archives.com/albums/Summoning/Oath_Bound/108254) are written in [neo-Black Speech](https://tolkiengateway.net/wiki/Black_Speech), and I used the English translation to keep the accuracy in word cloud. Similarly, the [Evernight lyrics](https://www.metal-archives.com/albums/Summoning/Old_Mornings_Dawn/372416) written in [Quenya](https://tolkiengateway.net/wiki/Quenya) are used in English translation.
+## 1. What is Summoning?
 
-## font declaration
-The font used in wordcloud.ipynb is free of personal use!
-[download address](https://www.1001fonts.com/lord-of-the-rings-fonts.html?page=1)
+**Summoning** is an Austrian epic/atmospheric black metal band, formed in 1993. Their style has been described as "Tolkien metal", because the lyrics of most of their songs deal with Middle-earth. 
+
+It was part of the Austrian Black Metal Syndicate, along with [Abigor](https://www.metal-archives.com/bands/Abigor/1066) and [Golden Dawn](https://www.metal-archives.com/bands/Golden_Dawn/1425).
+
+This is a wordcloud of Summoning's lyrics.
+![This is a wordcloud of Summoning's lyrics.](FINAL_ASSEST/word_cloud.png)
+
+## 2. What is middle earth?
+
+**Middle-earth** is the fictional setting the English writer [J. R. R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien "J. R. R. Tolkien")'s fantasy, which is the main continent of [Earth (Arda)](https://en.wikipedia.org/wiki/Arda_(Middle-earth) "Arda (Middle-earth)") in a certain time.
+
+This is a timeline of Arda, and Tolkien's work is set in the First Age to the Third Age, and the most famous one, Lord of the Rings is in the Third Age.
+
+It's only reasonable to visualize these place in the Third Age because [the Earth(Arda) had been flat before then](https://en.wikipedia.org/wiki/History_of_Arda).
+
+![](FINAL_ASSEST/timeline.png)
+
+## 3. What is Summoning's most mentioned place in middele earth?
+Summoning's first three albums are named after strongholds of evil: "Lugburz" (1995), "Minas Morgul" (1996) and "Dol Guldur" (1996).
+
+This map shows most mentioned place in their lyrics.
+![](FINAL_ASSEST/me_place_in_lyrics.png)
+
+In detial, these maps show the lyric lines mentioning place.
+![](FINAL_ASSEST/detailed1_me_place_in_lyrics.png)
+![](FINAL_ASSEST/detailed_me_place_in_lyrics.png)
+
+## 4. Why did I make this project?
+By virtue of coorperation with Mrs.Xiang(one of my my recommanders) and books written by Yi-Fu Tuan, I appreciate the attachment of place, and constantly find inspiration in cultural geography. From my perspective, place adds a nostalgic yet perceptible dimension in our life.
+
+Trying to utilize what I learned in PKU viz summer school and link my geography-related background, I initially dived into CHGIS(Chines Historical GIS) data, and made a comparison of territorial changes between 1911 and 1926 by intersection(a vector analysis tool) in QGIS. However, I realized Chinese map is politically sensative to post, before which I thought all coordinate reference systemss are equal and only had geographical, instead of political, difference.
+
+"I wish that there would be a place where I could navigate and lapse worrying about dangerous mistake", said to myself.
+
+Suddenly I noticed the music playing in my earphone, it was Farewell by Summoning, which I'd been listening while imagining the grandiose scenery and heroic wars in the middle earth it portrayed for years and years.
+
+The solemn mountains, vast woods in ever-shadows, and rivers driving golden sunshine had became a place to escape from mundane toils for me.
+
+Arthur Rimbaud had never witnessed the ocean by the time he wrote the poem "The Drunken Boat", but still could narrate it in a magnificant way; J.R.R. Tolkien drew in-depth fantasy maps of his fictional works. 
+
+These lead me into thinking that GIS maybe can be used to analyze fictional place, which is my manifesto in this project.
+
+
+## Data Source 
+
+### Lyrics text data
+
+”lyrics_for_wordcloud.txt“ is Summoning's all lyrics in their eight albums crawled from the [Metal Archives](https://www.metal-archives.com/bands/Summoning/29). 
+
+To keep the accuracy in wordcloud, lyrics written in other languages are used in English translation, which includes the [Mirdautas Vras lyrics](https://www.metal-archives.com/albums/Summoning/Oath_Bound/108254) (in [neo-Black Speech](https://tolkiengateway.net/wiki/Black_Speech)) and [Evernight lyrics](https://www.metal-archives.com/albums/Summoning/Old_Mornings_Dawn/372416) in [Quenya](https://tolkiengateway.net/wiki/Quenya).
+
+### Middle earth geo data
+
+The DEM and vector shapefiles are from [Rose's GIS & Middle Earth Presentation & Data Set](https://scholarworks.wm.edu/asoer/3/), which is under [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/), and my adaptions and share-alike methods are listed as follows:
+
+DEM is directly added in QGIS with changes in its symbology to have better visual effects as a base layer. Since the DEM zip is too chunky to upload in GitHub, you can download them from the link above. To use my changes, upload "qgis_viz/DEM_style.qml" to "symbology" in QGIS.
+
+Vector shapefiles are used and adapted in 3 steps:
+
+1. Merging. I merged geographical features into one layer, and realms into one layer to have a more hierarchical and categorical comprehensive of this dataset. Their shapefiles are in "processed_geo_data/new_layers", with attribute table exported in "processed_geo_data/attribute_table"
+
+2. Centorids. I used "centroids" and "add co-ordinate to points" tool in QGIS to the geo features in step 1, and exported them as "final_geo_data/poi_wgs84_with_xy.shp"
+
+3. Concating/ VLOOKUP. To link middle earth place Summoning mentioned and source data, I tried pd.concat() and VLOOKUP(Excel function haha), and import them into QGIS using "Add Delimited Text Layer", and the result is "qgis_viz/poi_labeling.shp"
+
+## Font declaration
+The font used in wordcloud.ipynb is free of personal use, [downloaded from here](https://www.1001fonts.com/lord-of-the-rings-fonts.html?page=1).
+
+## Reference
+
+[What is summoning?](https://tolkiengateway.net/wiki/Summoning)
+[pythonic-metal](https://github.com/ijmbarr/pythonic-metal)
+[Middle earth](https://en.wikipedia.org/wiki/Middle-earth)
+[Rose, Robert A. (2020) GIS & Middle Earth Presentation & Data Set. William & Mary.](https://doi.org/10.21220/RKEZ-X707)
