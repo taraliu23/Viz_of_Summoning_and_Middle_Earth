@@ -31,7 +31,7 @@ In detial, these maps show the lyric lines mentioning place.
 ![](FINAL_ASSEST/detailed_me_place_in_lyrics.png)
 
 ## 4. Why did I make this project?
-By virtue of coorperation with Mrs.Xiang(one of my my recommanders) and books written by Yi-Fu Tuan, I appreciate the attachment of place, and constantly find inspiration in cultural geography. From my perspective, place adds a nostalgic yet perceptible dimension in our life.
+By virtue of coorperation with Mrs.Xiang(one of my my recommanders) and books written by Yi-Fu Tuan, I appreciate the attachment of place, and constantly find inspiration in cultural geography. From my perspective, place adds a nostalgic yet perceptible dimension into our life.
 
 Trying to utilize what I learned in PKU viz summer school and link my geography-related background, I initially dived into CHGIS(Chines Historical GIS) data, and made a comparison of territorial changes between 1911 and 1926 by intersection(a vector analysis tool) in QGIS. However, I realized Chinese map is politically sensative to post, before which I thought all coordinate reference systemss are equal and only had geographical, instead of political, difference.
 
@@ -44,7 +44,6 @@ The solemn mountains, vast woods in ever-shadows, and rivers driving golden suns
 Arthur Rimbaud had never witnessed the ocean by the time he wrote the poem "The Drunken Boat", but still could narrate it in a magnificant way; J.R.R. Tolkien drew in-depth fantasy maps of his fictional works. 
 
 These lead me into thinking that GIS maybe can be used to analyze fictional place, which is my manifesto in this project.
-
 
 ## Data Source 
 
