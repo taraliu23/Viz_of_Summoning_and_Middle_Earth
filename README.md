@@ -26,7 +26,7 @@ Summoning's first three albums are named after strongholds of evil: "Lugburz" (1
 This map shows most mentioned place in their lyrics.
 ![](FINAL_ASSEST/me_place_in_lyrics.png)
 
-In detial, these maps show the lyric lines mentioning place.
+In detail, these maps show the lyric lines mentioning place.
 ![](FINAL_ASSEST/detailed1_me_place_in_lyrics.png)
 ![](FINAL_ASSEST/detailed_me_place_in_lyrics.png)
 
