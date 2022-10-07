@@ -31,7 +31,7 @@ In detial, these maps show the lyric lines mentioning place.
 ![](FINAL_ASSEST/detailed_me_place_in_lyrics.png)
 
 ## 4. Why did I make this project?
-Under cooperation with Mrs.Xiang(one of my recommenders) and books written by Yi-Fu Tuan, I appreciate the attachment to place, and constantly find inspiration in cultural geography. From my perspective, place adds a nostalgic yet perceptible dimension to our life.
+Under the cooperation with Mrs.Xiang and books written by Yi-Fu Tuan, I appreciate the attachment to place, and constantly find inspiration in cultural geography. From my perspective, place adds a nostalgic yet perceptible dimension to our life.
 Trying to utilize what I learned in PKU viz summer school and link my geography-related background, I initially dived into CHGIS(Chines Historical GIS) data, and made a comparison of territorial changes between 1911 and 1926 by the intersection(a vector analysis tool) in QGIS. However, I realized the Chinese map is politically sensitive to post, before which I thought all coordinate reference systems are equal and only had geographical, instead of political, differences.
 
 Suddenly I noticed the music playing in my earphone, it was Farewell by Summoning, which I'd been listening to while imagining the grandiose scenery and heroic wars in middle earth it portrayed for years and years. The solemn mountains, vast woods in ever-shadows, and rivers driving golden sunshine had become a place to escape from mundane toils for me.
