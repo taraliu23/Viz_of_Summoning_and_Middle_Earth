@@ -8,7 +8,7 @@ This is a  project for PKU visualization summer school, processing text data of 
 It was part of the Austrian Black Metal Syndicate, along with [Abigor](https://www.metal-archives.com/bands/Abigor/1066) and [Golden Dawn](https://www.metal-archives.com/bands/Golden_Dawn/1425).
 
 This is a wordcloud of Summoning's lyrics.
-![This is a wordcloud of Summoning's lyrics.](FINAL_ASSEST/word_cloud.png)
+![This is a wordcloud of Summoning's lyrics.](FINAL_ASSEST/word_cloud-01.png)
 
 ## 2. What is middle earth?
 
