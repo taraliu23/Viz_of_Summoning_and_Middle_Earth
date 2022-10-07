@@ -35,15 +35,9 @@ By virtue of coorperation with Mrs.Xiang(one of my my recommanders) and books wr
 
 Trying to utilize what I learned in PKU viz summer school and link my geography-related background, I initially dived into CHGIS(Chines Historical GIS) data, and made a comparison of territorial changes between 1911 and 1926 by intersection(a vector analysis tool) in QGIS. However, I realized Chinese map is politically sensative to post, before which I thought all coordinate reference systemss are equal and only had geographical, instead of political, difference.
 
-"I wish that there would be a place where I could navigate and lapse worrying about dangerous mistake", said to myself.
+Suddenly I noticed the music playing in my earphone, it was Farewell by Summoning, which I'd been listening while imagining the grandiose scenery and heroic wars in the middle earth it portrayed for years and years.The solemn mountains, vast woods in ever-shadows, and rivers driving golden sunshine had became a place to escape from mundane toils for me.
 
-Suddenly I noticed the music playing in my earphone, it was Farewell by Summoning, which I'd been listening while imagining the grandiose scenery and heroic wars in the middle earth it portrayed for years and years.
-
-The solemn mountains, vast woods in ever-shadows, and rivers driving golden sunshine had became a place to escape from mundane toils for me.
-
-Arthur Rimbaud had never witnessed the ocean by the time he wrote the poem "The Drunken Boat", but still could narrate it in a magnificant way; J.R.R. Tolkien drew in-depth fantasy maps of his fictional works. 
-
-These lead me into thinking that GIS maybe can be used to analyze fictional place, which is my manifesto in this project.
+Just like Arthur Rimbaud had never witnessed the ocean by the time he wrote the poem "The Drunken Boat", but still could narrate it in a magnificant way, fictional place could also be analyzed and visualized using tools known to deal with real-world data, which is my manifesto in this project.
 
 ## Data Source 
 
