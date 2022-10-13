@@ -71,3 +71,10 @@ The font used in wordcloud.ipynb is free of personal use, [downloaded from here]
 [Middle earth](https://en.wikipedia.org/wiki/Middle-earth)
 
 [Rose, Robert A. (2020) GIS & Middle Earth Presentation & Data Set. William & Mary.](https://doi.org/10.21220/RKEZ-X707)
+
+## Also..
+
+This pun lingers in my head for so long and I laugh every time when I listen to *Nightshade Forest* that I want to share it here haha.
+
+![my_precious_code_画板 1](https://user-images.githubusercontent.com/80751447/195524398-59cf2670-2cf9-4f7a-9862-63a40482a6a0.png)
+
