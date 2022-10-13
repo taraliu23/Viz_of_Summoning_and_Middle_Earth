@@ -76,5 +76,7 @@ The font used in wordcloud.ipynb is free of personal use, [downloaded from here]
 
 This pun lingers in my head for so long and I laugh every time when I listen to *Nightshade Forest* that I want to share it here haha.
 
-![my_precious_code_画板 1](https://user-images.githubusercontent.com/80751447/195524398-59cf2670-2cf9-4f7a-9862-63a40482a6a0.png)
+![my_precious_画板 1](https://user-images.githubusercontent.com/80751447/195525928-4fc3e65b-1d7f-472c-827e-563a5bbebe06.png)
+est* that I want to share it here haha.
+
 
