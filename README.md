@@ -1,6 +1,8 @@
 # Viz_of_Summoning_and_Middle_Earth 
 This is a  project for PKU visualization summer school, processing text data of metal band Summoning and geo data of the middle earth to find hazy patterns and relationships between them.
 
+[PREVIEW IN MY PERSONAL WEBSITE](https://drunkenboat-darkdomain.github.io/projects/proj-1)
+
 ## 1. What is Summoning?
 
 **Summoning** is an Austrian epic/atmospheric black metal band, formed in 1993. Their style has been described as "Tolkien metal", because the lyrics of most of their songs deal with Middle-earth. 
